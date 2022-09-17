@@ -6,7 +6,8 @@
 
 Projeto construido no evento Next Level Week da Rocketseat.
 
-[Acesse agora:] (https://ederdaniel22.github.io/nlw-esports/)
+Acesse aqui:
+https://ederdaniel22.github.io/nlw-esports/
 
 ## Tecnologias
 
